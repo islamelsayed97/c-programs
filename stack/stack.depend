@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588723495 source:f:\embedded system\c programming course\data structures & agorithms\data structures course_hd\my programs\stack\main.c
+	<stdio.h>
+	"Stack.h"
+
+1588723364 source:f:\embedded system\c programming course\data structures & agorithms\data structures course_hd\my programs\stack\stack.c
+	"Stack.h"
+	<stdlib.h>
+
+1588723503 f:\embedded system\c programming course\data structures & agorithms\data structures course_hd\my programs\stack\stack.h
+
