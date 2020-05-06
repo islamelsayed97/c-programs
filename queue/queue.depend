@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1588755667 source:f:\embedded system\c programming course\data structures & agorithms\data structures course_hd\my programs\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1588755804 source:f:\embedded system\c programming course\data structures & agorithms\data structures course_hd\my programs\queue\queue.c
+	"Queue.h"
+	<stdlib.h>
+
+1588755777 f:\embedded system\c programming course\data structures & agorithms\data structures course_hd\my programs\queue\queue.h
+
