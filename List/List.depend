@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588814026 source:f:\embedded system\c programming course\data structures & agorithms\data structures course_hd\my programs\list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"List.h"
+
+1588814297 f:\embedded system\c programming course\data structures & agorithms\data structures course_hd\my programs\list\list.h
+
+1588814247 source:f:\embedded system\c programming course\data structures & agorithms\data structures course_hd\my programs\list\list.c
+	"List.h"
+
