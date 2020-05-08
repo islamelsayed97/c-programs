@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588925606 source:f:\embedded system\c programming course\data structures & agorithms\data structures course_hd\my programs\selection_algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+
