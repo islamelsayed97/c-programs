@@ -10,13 +10,15 @@ int binarySearch(int, int [], int, searchType);
 
 int main()
 {
-    int arr[] = {1,5,5,5,7,7,7,7,7,7,9,9,9,9,55}, firstIndex, lastIndex, count, size, target = 9;
+    int arr[] = {1,5,5,5,7,7,7,7,7,7,9,9,9,9,55}, firstIndex, lastIndex, count, size, target = 7;
     size = sizeof(arr)/sizeof(arr[0]);
     firstIndex = binarySearch(target,arr,size,SEARCH_FIRST);
-    lastIndex = binarySearch(target,arr,size,SEARCH_LAST);
-    count = (lastIndex - firstIndex) + 1;
-    if(firstIndex > 0)
+    if(firstIndex >= 0)
+    {
+        lastIndex = binarySearch(target,arr,size,SEARCH_LAST);
+        count = (lastIndex - firstIndex) + 1;
         printf("number %d is exist %d times\n",target,count);
+    }
     else
         printf("number %d not found",target);
     return 0;
