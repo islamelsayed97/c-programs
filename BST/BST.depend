@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1589708904 source:f:\embedded system\c programming course\data structures & agorithms\data structures course_hd\my programs\bst\main.c
+	<stdio.h>
+	"BST.h"
+
+1589708624 source:f:\embedded system\c programming course\data structures & agorithms\data structures course_hd\my programs\bst\bst.c
+	<stdlib.h>
+	"BST.h"
+
+1589707614 f:\embedded system\c programming course\data structures & agorithms\data structures course_hd\my programs\bst\bst.h
+
+1589676926 source:f:\embedded system\c programming course\data structures & agorithms\data structures course_hd\my programs\bst\queue.c
+	"Queue.h"
+	<stdlib.h>
+
+1589675529 f:\embedded system\c programming course\data structures & agorithms\data structures course_hd\my programs\bst\queue.h
+	"BST.h"
+
